@@ -1,0 +1,7 @@
+import java.util.*;
+public class Main{
+public static void main(String [] args){
+int number = x;
+Scanner scan = new scan
+Scanner.nextInt()
+System.out.println("the binary number is : "+ Integer.toString(number,2));
