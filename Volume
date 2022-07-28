@@ -1,0 +1,47 @@
+double a = teaspoon
+double b = tablespoon
+double c = fluidounce
+double d = cup
+double e = pint
+double f = quart
+double g = gallon
+double b = double a*3
+double c = double b*2
+double d = double c*8.11537
+double e = double d*1.97157
+double f = double e*2
+double g = double f*4
+char a = teaspoon
+char b = tablespoon
+char c = fluidounce
+char d = cup
+char e = pint
+char f = quart
+char g = gallon
+Scanner scan= new Scanner(System.in);
+System.out.print(Enter char:);
+Scan.nextChar();
+System.out.print(Enter char:);
+Scan.nextChar();
+Scanner scan= new Scanner(System.in);.
+System.out.print("Enter first number- ");
+double a= sc.nextInt();
+System.out.println("+teaspoon");
+System.out.print("Enter first number- ");
+double b= sc.nextInt();
+System.out.println("+tablespoon");
+System.out.print("Enter first number- ");
+double c= sc.nextInt();
+System.out.println("+fluidounce");
+System.out.print("Enter first number- ");
+double d= sc.nextInt();
+System.out.println("+cup");
+System.out.print("Enter first number- ");
+double e= sc.nextInt();
+System.out.println("+pint");
+System.out.print("Enter first number- ");
+double f= sc.nextInt();
+System.out.println("+quart");
+System.out.print("Enter first number- ");
+double g= sc.nextInt();
+System.out.println("+gallon");
